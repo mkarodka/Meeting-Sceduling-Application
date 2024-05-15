@@ -1,0 +1,5 @@
+insert into Calendar(name, user_id)
+values('Umair', null);
+
+insert into Calendar(name, user_id)
+values('Test', null);
