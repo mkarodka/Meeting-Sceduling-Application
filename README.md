@@ -1,4 +1,4 @@
-# Meeting Scheduling Application (Personal Project)
+# Meeting Scheduling Application
 
 This project is a meeting scheduling application developed as a personal project. It provides backend functionality for managing calendars, events, and users.
 
