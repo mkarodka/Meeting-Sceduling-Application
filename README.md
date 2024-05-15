@@ -1,5 +1,4 @@
 # Meeting-Sceduling-Application
-Meeting Scheduling Application
 
 # Meeting Scheduling Application (Personal Project)
 
